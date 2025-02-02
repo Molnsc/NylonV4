@@ -28,7 +28,7 @@
 7. **Locate the `Bitmoji-Token`**  
    - Scroll down to the **Headers** section.  
    - Look for a header labeled **"Bitmoji-Token"**.  
-   - It will be in this format:  
+   - It will be in this format: (Example)
      ```plaintext
      Bitmoji-Token: ac293848bb3595u749IRm3857493
      ```  
