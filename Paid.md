@@ -84,8 +84,8 @@ _A curated list of items with their unique IDs._
 ## 🔞 NUDITY SECTION 
 ### 🔥 POSSIBLY BANNABLE
 *No ban reports as of 2/1/2025*
-| Item | ID |
-|------|----|
+| Item | ID || Type |
+|------|----||----|
 | **Girl Swimming Pool** | `10082482` | *Shirts*  |
 | **Girl Bed** | `10083135` | *Shirts*  |
 | **Close Up Breast** | `10024694` | *Shirts*  |
