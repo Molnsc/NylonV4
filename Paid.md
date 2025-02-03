@@ -81,5 +81,17 @@ _A curated list of items with their unique IDs._
 | **Mercury Sneaker BLACK** | `10002436` |
 
 ---
+## 🔞 NUDITY SECTION 
+### 🔥 POSSIBLY BANNABLE
+*No ban reports as of 2/1/2025*
+| Item | ID |
+|------|----|
+| **Girl Swimming Pool** | `10082482` | *Shirts*
+| **Girl Bed** | `10083135` | *Shirts*
+| **Close Up Breast** | `10024694` | *Shirts* 
+| **Alt Girl Swimming Pool** | `10082474` | *Sweatshirt* 
+| **Alt2 Girl Swimming Pool** | `10082537` | *Sweatshirt* 
+
+---
 
 ✨ *This list is always updating!* ✨
