@@ -90,6 +90,7 @@ _A curated list of items with their unique IDs._
 | **Close Up Breast**       | `10024694` | *Shirts*  |
 | **Alt Girl Swimming Pool**| `10082474` | *Sweatshirt* |
 | **Alt2 Girl Swimming Pool** | `10082537` | *Sweatshirt* |
+| **Black Thong** | `10084734` | *Pants* |
 
 ---
 
