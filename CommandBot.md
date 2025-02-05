@@ -28,7 +28,7 @@
 
 ---
 
-## 🎨 Execution Rate
+## 🎨 Performance
 
 | Category                     | Latency | Stability | Response Time | Efficiency | Optimization | Execution Speed | Bot Performance | Normal Performance |
 |------------------------------|---------|-----------|---------------|------------|--------------|----------------|----------------|-------------------|
