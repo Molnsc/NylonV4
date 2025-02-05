@@ -8,7 +8,7 @@
 
 - **`?start bot`**  
   _Starts the Snapchat bot._  
-  Get your bot up and running!
+  Starts Nylon Bot.
 
 - **`?stop bot`**  
   _Stops the Snapchat bot._  
@@ -23,7 +23,7 @@
   Choose from `slow`, `normal`, or `fast`.
 
 - **`?exit`**  
-  _Closes the bot window._  
+  _Closes the tab._  
   Shut down the bot and exit.
 
 ---
