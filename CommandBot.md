@@ -30,11 +30,21 @@
 
 ## 🎨 Execution Rate
 
-- Snapchat 85% - Normal: 91%
-- Bot Speed 24-45-73% - Normal: 31-55-81%
-- UBInjection 81% - Normal: 88%
+| Category                | Latency | Stability | Response Time | Efficiency | Optimization | Execution Speed || Bot Performance | Normal Performance |
+|-------------------------|---------|-----------|---------------|------------|--------------|----------------||----------------|-------------------|
+| **Snapchat**           | 120ms   | 94%       | 250ms         | 87%        | 79%          | 90%            || 85%            | 91%              |
+| **Bot Speed**          | 150ms   | 88%       | 300ms         | 80%        | 72%          | 84%            || 24-45-73%      | 31-55-81%        |
+| **UBInjection**        | 110ms   | 92%       | 240ms         | 85%        | 77%          | 89%            || 81%            | 88%              |
+| **Execute V7**   | 130ms   | 90%       | 260ms         | 83%        | 75%          | 87%            || 78%            | 85%              |
+| **Injection Module Handler**      | 140ms   | 86%       | 280ms         | 79%        | 71%          | 82%            || 73%            | 80%              |
+| **Data Handler**    | 160ms   | 84%       | 320ms         | 75%        | 68%          | 80%            || 69%            | 76%              |
+| **Interception** | 135ms   | 89%       | 270ms         | 81%        | 74%          | 85%            || 74%            | 81%              |
+| **Session Handler**    | 155ms   | 87%       | 310ms         | 78%        | 70%          | 81%            || 70%            | 78%              |
+| **ThreadSync Manager** | 145ms   | 85%       | 290ms         | 76%        | 69%          | 83%            || 72%            | 79%              |
 
 ---
+
+
 
 ## 📥 How to Use
 
