@@ -16,7 +16,7 @@
 
 - **`?spawn {idhere}`**  
   _Spawns a Bitmoji item by ID._  
-  Just replace `{idhere}` with the item ID you want to spawn.
+  Just replace `{idhere}` with the item ID you want to spawn (Currently Experiencing Issues with Snapchat's Most Recent Patch {Only Affects Command Bot}).
 
 - **`?botspeed {slow} {normal} {fast}`**  
   _Changes the bot speed._  
